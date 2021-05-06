@@ -2,6 +2,7 @@
 Application that crawl a web page and build site map in json with the links to other pages in the same domain.
 
 ## Built With
+Use Java 11
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
